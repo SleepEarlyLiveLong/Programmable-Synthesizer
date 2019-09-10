@@ -1,7 +1,7 @@
 ﻿
 # <center><font face="宋体"> 基于MATLAB软件GUI界面的可编程电音合成器软件 </font></center>
 
-*<center><font face="Times New Roman" size = 3> Author：[chentianyang](https://github.com/chentianyangWHU) &emsp;&emsp; E-mail：tychen@whu.edu.cn &emsp;&emsp; [Link]()</center>*
+*<center><font face="Times New Roman" size = 3> Author：[chentianyang](https://github.com/chentianyangWHU) &emsp;&emsp; E-mail：tychen@whu.edu.cn &emsp;&emsp; [Link](https://github.com/chentianyangWHU/Programmable-Synthesizer)</center>*
 
 **概要：** <font face="宋体" size = 3> 本文基于MATLAB及其GUI界面设计了一个基可编程电音合成器软件。利用MATLAB的GUI控件及相关算法，实现了多种音色电子音的合成，做到了音长、音色、音调可控和显示的多样化。基本音调包含了钢琴88键的频率，音色可选范围有正弦、方波、锯齿波、四段包络的正弦波、KarplusStrong合成波等。另外，软件还实现了midi文件的编解码，用户可通过对midi数组的编程自行设计电音曲目。</font>
 
